@@ -3,6 +3,7 @@ Imports System.IO
 Imports System.IO.Compression
 
 Module CryptoUtils
+    'La tua salt key dev'essere diversa da quella impostata qui
     Private ReadOnly _salt As Byte() = {&H26, &H4, &H1E, &H3D, &H95, &HF2, &H44, &HAF, &H8E, &H1D, &H9F, &H1F, &H61, &HD0, &H8C, &H97}
     Private ReadOnly _iterations As Integer = 10000
 
