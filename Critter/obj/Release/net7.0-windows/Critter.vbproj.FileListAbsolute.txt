@@ -1,0 +1,17 @@
+C:\Users\nick\source\repos\Critter\Critter\bin\Release\net7.0-windows\Critter.exe
+C:\Users\nick\source\repos\Critter\Critter\bin\Release\net7.0-windows\Critter.deps.json
+C:\Users\nick\source\repos\Critter\Critter\bin\Release\net7.0-windows\Critter.runtimeconfig.json
+C:\Users\nick\source\repos\Critter\Critter\bin\Release\net7.0-windows\Critter.dll
+C:\Users\nick\source\repos\Critter\Critter\bin\Release\net7.0-windows\Critter.pdb
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.vbproj.AssemblyReference.cache
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.Form1.resources
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.vbproj.GenerateResource.cache
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.AssemblyInfoInputs.cache
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.AssemblyInfo.vb
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.vbproj.CoreCompileInputs.cache
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.dll
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\refint\Critter.dll
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.pdb
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\Critter.genruntimeconfig.cache
+C:\Users\nick\source\repos\Critter\Critter\obj\Release\net7.0-windows\ref\Critter.dll
